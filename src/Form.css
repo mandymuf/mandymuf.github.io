@@ -1,0 +1,94 @@
+#name{
+  margin:16px;
+  height:40px;
+  
+  }
+#email, #phone{
+  height:40px;
+  margin:16px 16px 16px 0;
+}
+
+
+
+#topBar{
+  background-color:#ADB5BD;
+  height:96px;
+  color:white;
+  font-size:30px;
+  padding:20px;
+  text-align:left;
+ }
+
+#title{
+	text-align:left;
+	color:#787878;
+	margin-left:32px;
+	padding-top:80px;
+	padding-bottom:20px;
+	font-size:25px;
+	font-weight:bold;
+	font-family:sans-serif;
+}
+ 
+ .whiteBack{
+	background-color:white;
+	width:912px;
+	margin:auto;
+	display:block;
+	}
+.form{
+	margin-bottom:10px;
+	position:relative;
+}
+.form-control{
+	padding-left:16px;
+	background-color:#FAFAFA;
+	border:none;
+	color:#CCCCCC;
+}
+.col-md-2{
+	background-color:#EDEDED;
+	border:none;
+	width:100px;
+	color:#818181;
+	font-weight:bold;
+	position: absolute;
+    right: 10px;
+	top: 5px;
+	height:40px;
+}
+#head{
+	height:48px;
+	padding-left:24px;
+	font-weight:500;
+	font-size:14px;
+	color:#757575;
+	padding-left:24px;
+	text-align:left;	
+}
+.body{
+	height:72px;
+	color:#506050;
+	font-size:16px;
+	line-height:24px;
+	font-weight:400;
+	text-align:left;
+	padding-left:24px;
+	
+}
+
+
+#table{
+	overflow-x:auto;
+		
+}
+
+#back{
+  position:center;
+  background-color:#F1F1F1;
+  padding-bottom:100px;
+}
+.container{
+	width:982px;
+	height:808px;
+}

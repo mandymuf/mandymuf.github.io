@@ -1,0 +1,130 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+#topBar{
+  background-color:#ADB5BD;
+  height:96px;
+  color:white;
+  font-size:30px;
+  padding:20px;
+  text-align:left;
+ }
+
+#title{
+	text-align:left;
+	color:#787878;
+	margin-left:32px;
+	padding-top:80px;
+	padding-bottom:20px;
+	font-size:25px;
+	font-weight:bold;
+	font-family:sans-serif;
+}
+ 
+ .whiteBack{
+	background-color:white;
+	width:912px;
+	margin:auto;
+	display:block;
+	}
+.row{
+	margin-bottom:10px;
+	position:relative;
+	
+}
+.formc, #name,#phone,#email{
+	padding-left:16px;
+	background-color:#FAFAFA;
+	border:none;
+	color:#CCCCCC;
+	}
+	
+.col-md-1{
+	background-color:#EDEDED;
+	border:none;
+	color:#818181;
+	font-weight:bold;
+	height:40px;
+	margin:16px 16px 16px 180px;
+	padding-right:5px;
+		
+}
+form{
+	width:880px;
+	padding-left:30px;
+}
+#head{
+	height:48px;
+	padding-left:24px;
+	font-weight:500;
+	font-size:14px;
+	color:#757575;
+	padding-left:24px;
+	text-align:left;	
+}
+.body{
+	height:72px;
+	color:#506050 !important;
+	font-size:16px;
+	line-height:24px;
+	font-weight:400;
+	text-align:left;
+	padding-left:24px;
+	
+}
+
+
+
+#table{
+	overflow-x:auto;
+		
+}
+.name {
+	padding-bottom:5px;
+}
+.phone {
+	padding-bottom:5px;
+}
+.email{
+	margin-right:20px;
+}
+#phone, #name{
+	font-weight:normal;
+}
+
+#back{
+  position:center;
+  background-color:#F1F1F1;
+  padding-bottom:100px;
+}
+.container{
+	width:982px;
+	height:808px;
+}
